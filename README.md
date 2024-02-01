@@ -1,23 +1,20 @@
-### Olá! Eu sou o Juan Vincius, bem vindo ao meu perfil! 👋
+## <strong>Olá! Eu sou o Juan Vincius, bem vindo ao meu perfil!</strong> 👋
+<h3>Sou um desenvolvedor front-end junior, apaixonado pelo mundo JS e da programação em geral!</h3> 
+- 🎓Cursando Analise e Desenvolvimento de sistemas na UniOpet
 
-<div align="center">
-  <a href="https://github.com/devjuanvinicius">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devjuanvinicius&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruvbox&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.instagram.com/imnotjuvn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dev.juanvinicius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juan-vinicius-de-souza-194b12202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 💻 Stacks de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,php)](https://skillicons.dev)
+
+## 🛠️ Ferramentas para desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,photoshop)](https://skillicons.dev)
+
+## 📊 Estatiscas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanvinicius&layout=compact&theme=github_dark)](https://github.com/devjuanvinicius/github-readme-stats)
+
+## 📱 Redes sociais
+<a href="https://www.linkedin.com/in/juan-vinicius-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/imnotjuvn/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
