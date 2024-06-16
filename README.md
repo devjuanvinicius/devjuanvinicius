@@ -3,10 +3,10 @@
 - 🎓Cursando Analise e Desenvolvimento de sistemas na UniOpet
 
 ## 💻 Stacks de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,sass,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,php)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas para desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
 
 ## 📊 Estatiscas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanvinicius&layout=compact&theme=github_dark)](https://github.com/devjuanvinicius/github-readme-stats)
