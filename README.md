@@ -1,5 +1,5 @@
 ## <strong>Olá! Eu sou o Juan Vincius, bem vindo ao meu perfil!</strong> 👋
-<h3>Sou um desenvolvedor front-end junior, apaixonado pelo mundo JS e da programação em geral!</h3> 
+<h3>Sou um desenvolvedor full-stack junior, apaixonado pelo mundo da programação e tech no geral!</h3> 
 - 🎓Cursando Analise e Desenvolvimento de sistemas na UniOpet
 
 ## 💻 Stacks de desenvolvimento
