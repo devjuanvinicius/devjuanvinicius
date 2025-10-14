@@ -3,7 +3,7 @@
 - 🎓Cursando Analise e Desenvolvimento de sistemas na UniOpet
 
 ## 💻 Stacks de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=ts,react,docker,tailwind,node,bun,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,docker,tailwind,nodejs,bun,cs,dotnet)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas para desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
