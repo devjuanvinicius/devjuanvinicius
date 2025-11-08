@@ -1,6 +1,6 @@
 ## <strong>Olá! Eu sou o Juan Vincius, bem vindo ao meu perfil!</strong> 👋
 <h3>Sou um desenvolvedor full-stack junior, apaixonado pelo mundo da programação e tech no geral!</h3> 
-- 🎓 Graduado em Analise e Desenvolvimento de sistemas pela UniOpet
+- 🎓 Graduado em Analise e Desenvolvimento de sistemas pela UniOpet </br>
 - 👨‍💻 Desenvolvedor full-stack na Bellinati Perez
 
 ## 💻 Stacks de desenvolvimento
