@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
 
 ## 📊 Estatiscas
-[![Top Langs](https://github-stats-extended.vercel.app/api?username=devjuanvinicius&layout=compact&theme=github_dark)](https://github.com/devjuanvinicius/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devjuanvinicius&layout=compact&theme=github_dark)](https://github.com/devjuanvinicius/github-readme-stats)
 
 ## 📱 Redes sociais
 <a href="https://www.linkedin.com/in/juan-vinicius-dev/">
