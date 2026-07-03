@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,docker,tailwind,nodejs,bun,cs,dotnet)](https://skillicons.dev)
 
 ## 🛠️ Ferramentas para desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vs,figma,git)](https://skillicons.dev)
 
 ## 📊 Estatiscas
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devjuanvinicius&layout=compact&theme=github_dark)](https://github.com/devjuanvinicius/github-readme-stats)
